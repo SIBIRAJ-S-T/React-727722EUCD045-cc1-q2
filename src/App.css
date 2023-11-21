@@ -1,0 +1,10 @@
+body{
+  height: 100vh;
+  width: 100vw;
+  background:linear-gradient(lightgreen,lightblue,skyblue,blue);
+}
+
+.a{
+  text-align: center;
+  margin-top: 250px;
+}
